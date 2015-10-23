@@ -1,4 +1,7 @@
 image: killercentury/sbt
+
+
+
 scala:
    - 2.11.7
 script:
