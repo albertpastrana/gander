@@ -4,6 +4,6 @@ scala:
 script:
   - sbt test
 cache:
-  directories:
+  mount:
    - ~/.ivy2
    - ~/.sbt
